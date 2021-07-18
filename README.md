@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @PoornimaRavi
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data analytics and Data Science
-- 💞️ I’m looking to collaborate on with Data Science community
-- 📫 How to reach me poorni0201@gmail.com
+# Pesticide Sales Analysis
 
-<!---
-PoornimaRavi/PoornimaRavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+We will analyze and forecast sales of pesticides for a domestic pesticide manufacturing company
+
+Need to:
+	- Conduct state wise trend analysis of the given sales 
+	- To identify other reasons if they are influencing Pesticide sales
+	- To provide state wise forecast of Pesticide sales for a company
